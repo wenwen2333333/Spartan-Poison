@@ -1,0 +1,10 @@
+build/
+run/
+run-data/
+.gradle/
+.idea/
+*.iml
+*.log
+_backup_recipes/
+_backup_before_rename/
+collect_project.py

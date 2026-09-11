@@ -1,0 +1,14 @@
+{
+    "parent":  "spartanweaponry:item/base/dagger",
+    "overrides":  [
+                      {
+                          "model":  "spartan_poison:item/poisoned_dragon_bone_dagger_throwing",
+                          "predicate":  {
+                                            "spartanweaponry:throwing":  1
+                                        }
+                      }
+                  ],
+    "textures":  {
+                     "layer0":  "spartan_poison:item/poisoned_dragon_bone_dagger"
+                 }
+}

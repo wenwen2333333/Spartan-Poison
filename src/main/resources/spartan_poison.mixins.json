@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "wen_wen233.spartan_poison.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "spartan_poison.refmap.json",
+  "mixins": [
+    "ItemMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

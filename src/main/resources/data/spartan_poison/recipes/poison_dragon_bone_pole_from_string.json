@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "spartan_poison:poison_dragon_bone_pole",
+  "conditions": [
+    {
+      "type": "spartan_poison:poison_default_recipe"
+    }
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:string"
+    },
+    "|": {
+      "tag": "forge:bones/dragon"
+    }
+  },
+  "pattern": [
+    "| ",
+    "|#",
+    "| "
+  ],
+  "result": {
+    "item": "spartan_poison:poison_dragon_bone_pole"
+  },
+  "show_notification": true
+}

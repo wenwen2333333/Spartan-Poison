@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "spartan_poison:spartanfire_recipe"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "spartanfire:dragon_bone_throwing_knife"
+    },
+    {
+      "item": "poison_dragons:poison_dragon_blood"
+    }
+  ],
+  "result": {
+    "item": "spartan_poison:poisoned_dragon_bone_throwing_knife"
+  }
+}

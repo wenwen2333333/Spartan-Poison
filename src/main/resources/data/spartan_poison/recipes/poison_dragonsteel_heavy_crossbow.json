@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "spartanweaponry:type_disabled",
+      "disabled": [
+        "heavy_crossbow"
+      ]
+    },
+    {
+      "type": "spartan_poison:poison_default_recipe"
+    }
+  ],
+  "group": "spartanweaponry:heavy_crossbow",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/dragonsteel_poison"
+    },
+    "D": {
+      "item": "minecraft:bow"
+    },
+    "H": {
+      "item": "minecraft:tripwire_hook"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "|": {
+      "item": "spartan_poison:poison_dragon_bone_handle"
+    }
+  },
+  "pattern": [
+    "#D#",
+    "PHP",
+    " | "
+  ],
+  "result": {
+    "item": "spartan_poison:poison_dragonsteel_heavy_crossbow"
+  }
+}

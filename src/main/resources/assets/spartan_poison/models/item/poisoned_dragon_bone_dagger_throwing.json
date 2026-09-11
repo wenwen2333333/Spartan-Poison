@@ -1,0 +1,6 @@
+{
+    "parent":  "spartanweaponry:item/base/dagger_throwing",
+    "textures":  {
+                     "layer0":  "spartan_poison:item/poisoned_dragon_bone_dagger"
+                 }
+}

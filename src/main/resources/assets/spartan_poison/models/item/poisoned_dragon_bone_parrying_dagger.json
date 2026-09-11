@@ -1,0 +1,20 @@
+{
+    "parent":  "spartanweaponry:item/base/parrying_dagger",
+    "overrides":  [
+                      {
+                          "predicate":  {
+                                            "spartanweaponry:blocking":  1
+                                        },
+                          "model":  "spartan_poison:item/poisoned_dragon_bone_parrying_dagger_blocking"
+                      },
+                      {
+                          "predicate":  {
+                                            "spartanweaponry:throwing":  1
+                                        },
+                          "model":  "spartan_poison:item/poisoned_dragon_bone_parrying_dagger_throwing"
+                      }
+                  ],
+    "textures":  {
+                     "layer0":  "spartan_poison:item/poisoned_dragon_bone_parrying_dagger"
+                 }
+}

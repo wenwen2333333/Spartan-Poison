@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "spartan_poison:poison_default_recipe"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "spartanweaponry:diamond_glaive"
+    },
+    {
+      "item": "poison_dragons:poison_dragon_blood"
+    }
+  ],
+  "result": {
+    "item": "spartan_poison:poisoned_dragon_bone_glaive"
+  }
+}

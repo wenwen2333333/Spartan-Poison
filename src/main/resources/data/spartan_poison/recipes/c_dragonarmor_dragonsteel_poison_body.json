@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "spartan_poison:iaf_recipe"
+    }
+  ],
+  "pattern": [
+    "###",
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "poison_dragons:dragonsteel_poison_block"
+    }
+  },
+  "result": {
+    "item": "poison_dragons:dragonarmor_dragonsteel_poison_body"
+  }
+}

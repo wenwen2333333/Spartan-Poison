@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "spartanweaponry:type_disabled",
+      "disabled": [
+        "saber"
+      ]
+    },
+    {
+      "type": "spartan_poison:poison_default_recipe"
+    }
+  ],
+  "group": "spartanweaponry:saber",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/dragonsteel_poison"
+    },
+    "|": {
+      "item": "spartan_poison:poison_dragon_bone_handle"
+    }
+  },
+  "pattern": [
+    " #",
+    " #",
+    "#|"
+  ],
+  "result": {
+    "item": "spartan_poison:poison_dragonsteel_saber"
+  }
+}

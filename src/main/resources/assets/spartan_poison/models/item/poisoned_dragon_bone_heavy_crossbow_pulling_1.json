@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "spartan_poison:item/poisoned_dragon_bone_heavy_crossbow_pulling_1"
+                 },
+    "parent":  "spartanweaponry:item/base/heavy_crossbow_pulling"
+}

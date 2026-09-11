@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "spartan_poison:spartanfire_recipe"
+    }
+  ],
+  "group": "spartanweaponry:javelin",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/dragonsteel_poison"
+    },
+    "/": {
+      "item": "spartanfire:witherbone_pole"
+    }
+  },
+  "pattern": [
+    "/#"
+  ],
+  "result": {
+    "item": "spartan_poison:poison_dragonsteel_javelin"
+  }
+}

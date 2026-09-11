@@ -1,0 +1,14 @@
+{
+    "parent":  "spartanweaponry:item/base/throwing_knife",
+    "overrides":  [
+                      {
+                          "predicate":  {
+                                            "spartanweaponry:throwing":  1
+                                        },
+                          "model":  "spartan_poison:item/poison_dragonsteel_throwing_knife_throwing"
+                      }
+                  ],
+    "textures":  {
+                     "layer0":  "spartan_poison:item/poison_dragonsteel_throwing_knife"
+                 }
+}

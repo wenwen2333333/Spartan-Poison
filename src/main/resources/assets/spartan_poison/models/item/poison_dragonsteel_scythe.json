@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "spartan_poison:item/poison_dragonsteel_scythe"
+                 },
+    "parent":  "spartanweaponry:item/base/scythe"
+}

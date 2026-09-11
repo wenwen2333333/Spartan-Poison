@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "spartan_poison:iaf_recipe"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "iceandfire:dragonbone_sword"
+    },
+    {
+      "item": "poison_dragons:poison_dragon_blood"
+    }
+  ],
+  "result": {
+    "item": "poison_dragons:dragonbone_sword_poison"
+  }
+}

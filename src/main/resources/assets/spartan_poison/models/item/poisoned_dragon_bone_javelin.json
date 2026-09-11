@@ -1,0 +1,14 @@
+{
+    "parent":  "spartanweaponry:item/base/javelin",
+    "overrides":  [
+                      {
+                          "predicate":  {
+                                            "spartanweaponry:throwing":  1
+                                        },
+                          "model":  "spartan_poison:item/poisoned_dragon_bone_javelin_throwing"
+                      }
+                  ],
+    "textures":  {
+                     "layer0":  "spartan_poison:item/poisoned_dragon_bone_javelin"
+                 }
+}

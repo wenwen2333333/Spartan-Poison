@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "spartan_poison:iaf_recipe"
+    }
+  ],
+  "pattern": [
+    "XX",
+    "XS",
+    " S"
+  ],
+  "key": {
+    "X": {
+      "item": "poison_dragons:dragonsteel_poison_ingot"
+    },
+    "S": {
+      "item": "iceandfire:witherbone"
+    }
+  },
+  "result": {
+    "item": "poison_dragons:dragonsteel_poison_axe"
+  }
+}

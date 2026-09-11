@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "spartan_poison:item/poison_dragonsteel_warhammer"
+                 },
+    "parent":  "spartanweaponry:item/base/warhammer"
+}

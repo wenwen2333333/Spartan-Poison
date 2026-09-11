@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "spartan_poison:spartanfire_recipe"
+    }
+  ],
+  "group": "spartanweaponry:longbow",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/dragonsteel_poison"
+    },
+    "/": {
+      "tag": "forge:rods/wooden"
+    },
+    "|": {
+      "item": "spartanfire:witherbone_handle"
+    },
+    "~": {
+      "tag": "forge:string"
+    }
+  },
+  "pattern": [
+    "|/#",
+    "/ ~",
+    "#~~"
+  ],
+  "result": {
+    "item": "spartan_poison:poison_dragonsteel_longbow"
+  }
+}

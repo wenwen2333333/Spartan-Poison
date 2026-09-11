@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "spartan_poison:poison_dragon_bone_handle",
+  "conditions": [
+    {
+      "type": "spartan_poison:poison_default_recipe"
+    }
+  ],
+  "ingredients": [
+    {
+      "tag": "forge:bones/dragon"
+    },
+    {
+      "tag": "forge:string"
+    }
+  ],
+  "result": {
+    "item": "spartan_poison:poison_dragon_bone_handle"
+  }
+}

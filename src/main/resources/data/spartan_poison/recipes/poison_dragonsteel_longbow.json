@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "spartanweaponry:type_disabled",
+      "disabled": [
+        "longbow"
+      ]
+    },
+    {
+      "type": "spartan_poison:poison_default_recipe"
+    }
+  ],
+  "group": "spartanweaponry:longbow",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/dragonsteel_poison"
+    },
+    "/": {
+      "tag": "forge:rods/wooden"
+    },
+    "|": {
+      "item": "spartan_poison:poison_dragon_bone_handle"
+    },
+    "~": {
+      "tag": "forge:string"
+    }
+  },
+  "pattern": [
+    "|/#",
+    "/ ~",
+    "#~~"
+  ],
+  "result": {
+    "item": "spartan_poison:poison_dragonsteel_longbow"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "spartan_poison:item/poison_dragon_bone_pole"
+                 },
+    "parent":  "item/generated"
+}

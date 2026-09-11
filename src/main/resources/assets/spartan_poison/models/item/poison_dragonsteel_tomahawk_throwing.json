@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "spartan_poison:item/poison_dragonsteel_tomahawk"
+                 },
+    "parent":  "spartanweaponry:item/base/tomahawk_throwing"
+}

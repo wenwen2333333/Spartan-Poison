@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "spartan_poison:poison_dragon_bone_pole",
+  "conditions": [
+    {
+      "type": "spartan_poison:poison_default_recipe"
+    }
+  ],
+  "ingredients": [
+    {
+      "tag": "forge:bones/dragon"
+    },
+    {
+      "tag": "forge:bones/dragon"
+    },
+    {
+      "tag": "forge:bones/dragon"
+    },
+    {
+      "tag": "forge:bones/dragon"
+    },
+    {
+      "tag": "forge:bones/dragon"
+    },
+    {
+      "tag": "forge:bones/dragon"
+    },
+    {
+      "tag": "forge:bones/dragon"
+    },
+    {
+      "tag": "forge:bones/dragon"
+    },
+    {
+      "tag": "forge:leather"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "spartan_poison:poison_dragon_bone_pole"
+  }
+}

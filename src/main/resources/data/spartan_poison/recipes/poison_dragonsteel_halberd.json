@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "spartanweaponry:type_disabled",
+      "disabled": [
+        "halberd"
+      ]
+    },
+    {
+      "type": "spartan_poison:poison_default_recipe"
+    }
+  ],
+  "group": "spartanweaponry:halberd",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/dragonsteel_poison"
+    },
+    "/": {
+      "item": "spartan_poison:poison_dragon_bone_pole"
+    }
+  },
+  "pattern": [
+    " #",
+    "##",
+    "#/"
+  ],
+  "result": {
+    "item": "spartan_poison:poison_dragonsteel_halberd"
+  }
+}

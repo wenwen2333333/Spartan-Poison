@@ -1,0 +1,44 @@
+Spartan Poison - Credits
+========================
+
+Author
+------
+wen_wen233
+
+Contributors
+------------
+- ndwz233 — Texture artist (weapon textures)
+
+Special Thanks
+--------------
+menoXD — Author of Poison Dragons, for creating the mod this addon is built for
+and for granting permission to publish this addon.
+
+Dependencies
+------------
+This mod depends on the following projects:
+
+- Spartan Weaponry
+  https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry
+
+- Spartan Weaponry Addon Toolkit
+  https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-addon-toolkit
+
+- Poison Dragons
+  https://www.curseforge.com/minecraft/mc-mods/poison-dragons-ice-fire-addon
+
+
+Derived Assets
+--------------
+Some weapon textures in this mod are derived from Spartan Weaponry: Ice and Fire,
+which is licensed under the MIT License.
+
+Spartan Weaponry: Ice and Fire - Copyright (C) KreloX
+https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-ice-and-fire
+
+The MIT License text is reproduced in LICENSE.
+
+License
+-------
+This mod is licensed under the GNU General Public License v3.0.
+See the LICENSE file for the full text.
